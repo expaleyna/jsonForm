@@ -1,0 +1,33 @@
+2. Araþtýrma Ödevi: Reflection Nedir?
+
+Reflection, Çalýþma zamanýnda (runtime) tipler, metotlar, özellikler ve alanlar hakkýnda bilgi edinmeyi ve dinamik iþlem yapmayý saðlayan bir .NET özelliðidir.
+
+Ne iþe yarar?
+
+Çalýþma zamanýnda nesnenin tipine bakýp metot çaðýrabilir, özellik deðerini alýp deðiþtirebilir.
+
+Örneðin, bir plugin mimarisi kurarken, derleme zamanýnda bilmediðiniz sýnýflarý yükleyip üzerinde iþlem yapabilirsiniz.
+
+Küçük Örnek
+
+using System;
+using System.Reflection;
+
+class Kisi
+{
+    public string Ad { get; set; } = "Aleyna";
+    public int Yas { get; set; } = 19;
+}
+
+class Program
+{
+    static void Main()
+    {
+        var tip = typeof(Kisi);
+        Console.WriteLine("Kisi sýnýfýndaki özellikler:");
+        foreach (PropertyInfo prop in tip.GetProperties())
+        {
+            Console.WriteLine($"- {prop.Name}");
+        }
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\bin\Debug\net8.0-windows\jsonForm.exe
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\bin\Debug\net8.0-windows\jsonForm.deps.json
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\bin\Debug\net8.0-windows\jsonForm.runtimeconfig.json
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\bin\Debug\net8.0-windows\jsonForm.dll
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\bin\Debug\net8.0-windows\jsonForm.pdb
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.Form1.resources
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.dll
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\refint\jsonForm.dll
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.pdb
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\jsonForm.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\jsonForm\jsonForm\obj\Debug\net8.0-windows\ref\jsonForm.dll

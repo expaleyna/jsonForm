@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\arastirma.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\arastirma.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\urunler.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\urunler.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|c:\\users\\administrator\\source\\repos\\jsonform\\jsonform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7E67509-3D40-4E21-80CF-5BC8B352D80F}|jsonForm\\jsonForm.csproj|solutionrelative:jsonform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arastirma.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\arastirma.txt",
+              "RelativeDocumentMoniker": "jsonForm\\arastirma.txt",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\arastirma.txt",
+              "RelativeToolTip": "jsonForm\\arastirma.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-20T12:48:27.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "jsonForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.Designer.cs",
+              "RelativeToolTip": "jsonForm\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:40:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "urunler.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\urunler.json",
+              "RelativeDocumentMoniker": "jsonForm\\urunler.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\urunler.json",
+              "RelativeToolTip": "jsonForm\\urunler.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:40:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.cs",
+              "RelativeDocumentMoniker": "jsonForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.cs",
+              "RelativeToolTip": "jsonForm\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:39:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Program.cs",
+              "RelativeDocumentMoniker": "jsonForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Program.cs",
+              "RelativeToolTip": "jsonForm\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:38:46.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.cs",
+              "RelativeDocumentMoniker": "jsonForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\jsonForm\\jsonForm\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "jsonForm\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:38:43.57Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
